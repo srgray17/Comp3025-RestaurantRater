@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "256558542304",
+    "project_id": "comp3025-restaurantrater",
+    "storage_bucket": "comp3025-restaurantrater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256558542304:android:6c83a456b491e32fbecf85",
+        "android_client_info": {
+          "package_name": "com.LH1121192.comp3025_restaurantrater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256558542304-vf6clion21vhoc9onselituiocnb05um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubbY5CFWPWh0c5b7RcTdci5sUEnjqcVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256558542304-vf6clion21vhoc9onselituiocnb05um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256558542304:android:1c9411e8eecc4a9ebecf85",
+        "android_client_info": {
+          "package_name": "com.example.comp3025_restaurantrater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256558542304-l0foknegeufhfsq0kmj0n8ujlhmifpu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comp3025_restaurantrater",
+            "certificate_hash": "762f04cab6da11729b199e90c913890bcd8c4785"
+          }
+        },
+        {
+          "client_id": "256558542304-vf6clion21vhoc9onselituiocnb05um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubbY5CFWPWh0c5b7RcTdci5sUEnjqcVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256558542304-vf6clion21vhoc9onselituiocnb05um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

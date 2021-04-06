@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border_margin">10dp</dimen>
+    <dimen name="margin_side">5dp</dimen>
+    <dimen name="name_width">250dp</dimen>
+    <dimen name="heading_text_size">30sp</dimen>
+    <dimen name="heading_font_size">28sp</dimen>
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="margin_item">10dp</dimen>
+
+</resources>
